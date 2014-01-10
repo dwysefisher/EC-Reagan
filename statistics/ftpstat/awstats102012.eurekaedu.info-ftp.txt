@@ -1,0 +1,367 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201210 will be lost/reset.
+# Last config file used to build this data file was /usr/local/psa/etc/awstats/awstats.eurekaedu.info-ftp.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2012                
+POS_TIME 2683                
+POS_VISITOR 6102                
+POS_DAY 6244                
+POS_DOMAIN 3196                
+POS_LOGIN 3429                
+POS_ROBOT 3631                
+POS_WORMS 3763                
+POS_EMAILSENDER 3894                
+POS_EMAILRECEIVER 4037                
+POS_SESSION 6377                
+POS_SIDER 6535                
+POS_FILETYPES 4172                
+POS_DOWNLOADS 4674                
+POS_OS 4722                
+POS_BROWSER 4774                
+POS_SCREENSIZE 4837                
+POS_UNKNOWNREFERER 4911                
+POS_UNKNOWNREFERERBROWSER 4998                
+POS_ORIGIN 5080                
+POS_SEREFERRALS 5215                
+POS_PAGEREFS 5359                
+POS_SEARCHWORDS 5507                
+POS_KEYWORDS 5659                
+POS_MISC 2347                
+POS_ERRORS 5718                
+POS_CLUSTER 3285                
+POS_SIDER_404 5793                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20121108142419 1 0 8294381853519
+FirstTime 20121003171036
+LastTime 20121019135407
+LastUpdate 20121109044120 1 0 0 0 0
+TotalVisits 3                   
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 2                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 112 1078 68435208 0 1 2550
+12 0 0 0 0 0 0
+13 4 4 85374 0 0 0
+14 0 1 4228 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 95 1074 68590435 0 1 2550
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 211 2157 137115245
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+admin_reagan 211 2157 137115245 20121019135407
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 26
+css 2 5824 0 0
+db 5 319488 0 0
+tmp 2 0 0 0
+php 7 587823 0 0
+html 13 75069 0 0
+csv 4 3807506 0 0
+shtml 1 1585 0 0
+jpg 897 11935139 0 0
+fcgi 1 1030 0 0
+doc 2 58368 0 0
+png 777 68150971 0 0
+asp 1 789 0 0
+pdf 16 24386034 0 0
+mvc 1 6326 0 0
+htm 156 2555312 0 0
+cfm 1 804 0 0
+mov 2 13143688 0 0
+pl 1 911 0 0
+swf 14 104248 0 0
+flv 6 7995470 0 0
+py 2 16318 0 0
+js 6 60480 0 0
+docx 2 318570 0 0
+gif 220 3506802 0 0
+ram 12 792 0 0
+dwt 6 75898 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 1
+Unknown 2157
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 1
+Unknown 2157
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 0
+From1 211 2157
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2
+97.64.153.21 211 2156 137111017 20121019135407
+24.14.58.253 0 1 4228 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20121003 95 1074 68590435 1
+20121011 0 1 4228 0
+20121019 116 1082 68520582 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 113
+/var/www/vhosts/eurekaedu.info/httpdocs/society/emails.htm 6 126390 1 1
+/var/www/vhosts/eurekaedu.info/httpdocs/videos/Thoughts.ram 2 130 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/fall10_11/carrie_wolf.htm 2 34864 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/templates/reagantemp.dwt 2 22754 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/society/events.htm 2 44382 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/index.htm 2 40410 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/conference/schedule.htm 2 39636 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/resources/index.htm 2 31306 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/videos/Reflections.ram 2 136 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/graphics/navigation/conference/conference_nav.htm 2 5994 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/php/test.html 1 3005 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/fcgi/test.html 1 3017 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/perl/test.html 1 3015 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/apacheasp/test.html 1 3028 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/fall10_11/chamber_singers.htm 2 28374 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/conference/bus_trip.htm 2 27010 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/apacheasp/test.asp 1 789 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/2011_2012/fall_wall_2011.htm 2 35582 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_lessons/academics.htm 2 39916 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/ssi/test.html 1 3010 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_applied/pullouts/meet_natalie.htm 2 45230 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/fall10_11/shirley_course.htm 2 29558 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/graphics/logos/Thumbs.db 2 138240 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/society/events/09_10/shirley.htm 2 40824 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/fall10_11/superbowl.htm 2 31202 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/images/conference/buttons/visitors/visitors_button.htm 2 5652 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/graphics/navigation/lead_lessons/lead_lessons_nav.htm 2 8638 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/2011_2012/shenkman_dedication.htm 2 38202 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/HDWForm2Mail/Form2Mail_honorary_reagan_fellow.php 2 195592 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/conference/dinner.htm 2 30382 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/graphics/ 2 20240 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/videos/Why_Eureka.ram 2 134 0 2
+/var/www/vhosts/eurekaedu.info/httpdocs/conference/speakers.htm 2 41894 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/resources/conf_2011_presentations.htm 2 26758 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/fall10_11/william_wind.htm 2 40270 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/fcgi/test.fcgi 1 1030 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_lessons/leader.htm 2 46610 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/graphics/Thumbs.db 2 58368 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/conference/oops.htm 2 25670 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/2011_2012/lauren_carlsen.htm 2 34154 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_lessons/alum.htm 2 41244 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/ssi/test.shtml 1 1585 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/templates/reagantemp.htm 2 14896 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/graphics/navigation/society/society_nav.htm 2 7476 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/ 2 27657 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/miva/test.html 1 3023 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/society/benefits.htm 2 46538 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/templates/societytemp.dwt 2 25392 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/resources/shenkman.htm 2 33696 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/redesign/index.htm 2 16966 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/redesign/templates/societytemp.htm 2 21452 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/HDWForm2Mail/Form2Mail.php 2 195554 1 0
+/var/www/vhosts/eurekaedu.info/httpdocs/superbowl.htm 2 27462 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/redesign/templates/reagantemp.htm 2 16220 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_applied/servant_leaders.htm 2 80168 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/contact.htm 2 35396 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/conference/index.htm 2 40644 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/society/join.htm 2 47456 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/2011_2012/hannaford_book_tour.htm 2 46584 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_lessons/relationships.htm 2 45060 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/images/conference/register/register.htm 2 3728 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/graphics/societytemp.htm 2 20136 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/cgi/test.html 1 3033 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/reagan_midwest.htm 2 30866 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/society/oops.htm 2 29300 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_applied/leadership_letters.htm 2 32422 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/php/test.php 1 1113 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_lessons/quotes.htm 2 48274 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/python/test.html 1 3013 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_lessons/neil.htm 2 42562 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/graphics/temp.htm 2 8542 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/images/Thumbs.db 1 122880 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/images/conference/buttons/maps/maps_button.htm 2 5538 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/fcgi/fcgi.py 1 14987 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_applied/index.htm 2 48300 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_applied/pullouts/meet_seth.htm 2 40724 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/coldfusion/test.html 1 3028 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/HDWForm2Mail/Form2Mail_reagan_conference.php 2 195564 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/graphics/index.htm 2 18950 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/coldfusion/test.cfm 1 804 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/fall10_11/kelley_endowment.htm 2 34724 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/fall10_11/px_kelley.htm 2 35058 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/videos/1982Speech.ram 2 134 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_applied/fellowship_program.htm 2 45392 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/fall10_11/conference.htm 2 38642 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/society/michael_reagan.htm 2 37222 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/images/society/events_past/events_past.htm 2 7370 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/partners.htm 2 28244 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/templates/press_release.dwt 2 27752 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/miva/test.mvc 1 6326 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/perl/test.pl 1 911 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/fall10_11/speaker_series_kickoff.htm 2 34468 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/fall10_11/maibach.htm 2 34346 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/society/thanks.htm 2 29128 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/society/index.htm 2 46906 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/society/events/11_12/pdfs/AD$A90.tmp 2 0 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/hannaford_tour/tour_dates.docx 2 318570 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_applied/museum.htm 2 49728 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/videos/Influence.ram 2 132 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/fall10_11/george_leal.htm 2 35678 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/society/events/11_12/james_baker.htm 2 36070 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/conference/visitors.htm 2 35398 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_lessons/timeline.htm 2 53112 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/press/releases/fall10_11/craig_barrett.htm 2 39644 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/graphics/navigation/lead_applied/lead_applied_nav.htm 2 6990 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/centennial_series/index.htm 2 51666 1 0
+/var/www/vhosts/eurekaedu.info/httpdocs/conference/thanks.htm 2 29790 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/society/give.htm 2 40356 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/conference/hotels.htm 2 6398 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/images/conference/buttons/hotels/hotels_button.htm 2 5600 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/videos/Legacy.ram 2 126 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/test/python/test.py 1 1331 0 0
+/var/www/vhosts/eurekaedu.info/httpdocs/lead_lessons/index.htm 2 43874 0 0
+END_SIDER
