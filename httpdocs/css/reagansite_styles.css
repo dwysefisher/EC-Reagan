@@ -24,15 +24,16 @@ h1 {
 	text-transform: none;
 	color: #67523D;
 	font-weight: normal;
-	font-family: "Geneva, Arial, Helvetica, sans-serif;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
 	font-style: normal;
 }
+
 h2 {
 	font-size: 11px;
 	text-transform: none;
 	font-weight: bold;
 	color: #993333;
-	font-family: "Geneva, Arial, Helvetica, sans-serif;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
 	font-style: italic;
 }
 h2 {
@@ -61,10 +62,7 @@ a:hover {
 	font-weight: bold;
 }
 
-p {
-	font-size: 12px;
-	font-family: Geneva, Arial, Helvetica, sans-serif;
-}
+
 h3 {
 	font-size: 10px;
 	font-style: normal;
@@ -79,6 +77,9 @@ th {
 
 p {
 	margin-top: 15px;
+	font-size: 12px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;	
+	padding-bottom: 1em;
 }
 li p {
 	margin-left: 0px;
@@ -223,3 +224,10 @@ h6 {
 	text-decoration: none !important; 
 	border-bottom: 1px dotted !important;
 }
+
+a {
+	text-decoration: none !important; 
+	border-bottom: 1px dotted !important;
+	color: #990033 !important;
+}
+
